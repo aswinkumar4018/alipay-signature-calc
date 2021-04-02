@@ -1,0 +1,36 @@
+{
+    "order": {
+        "orderAmount": {
+            "currency": "CNY",
+            "value": "1314"
+        },
+        "extendInfo": {
+            "chinaExtraTransInfo": {
+                "totalQuantity": "2",
+                "otherBusinessType": "testBusinessType",
+                "businessType": "4",
+                "goodsInfo": "test"
+            }
+        },
+        "orderDescription": "Mika's coffee shop",
+        "referenceOrderId": "ORDER_20201130113221588",
+        "env": {
+            "osType": "ANDROID",
+            "terminalType": "WEB"
+        }
+    },
+    "paymentAmount": {
+        "currency": "CNY",
+        "value": "1314"
+    },
+    "paymentMethod": {
+        "paymentMethodType": "ALIPAY_CN"
+    },
+    "settlementStrategy": {
+        "settlementCurrency": "USD"
+    },
+    "paymentNotifyUrl": "https://www.gaga.com/notify",
+    "paymentRedirectUrl": "https://global.alipay.com/doc/cashierpayment/intro",
+    "paymentRequestId": "REQUEST_20201130113221588",
+    "productCode": "CASHIER_PAYMENT"
+}
