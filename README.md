@@ -19,4 +19,4 @@ const clientID = "XXXX";    // Replace with your Client ID
  ```
 
 ## More details
-https://medium.com/@aswinkumar4018/setup-snowplow-real-time-analytics-pipeline-dc8a71cd14f6
+https://aswinkumar4018.medium.com/alipay-signature-generation-using-nodejs-281f86b0d20f
